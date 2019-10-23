@@ -1,0 +1,7 @@
+This a Java based program which compares two text files and output the line number and position from where the difference is. 
+have look at "CompareFile.java", it has the main class.
+
+Free feel to integrate this code to application. But please acknowledge my name as Ashish Chawla with my github profile https://github.com/iambatman007/
+
+
+Thanks
